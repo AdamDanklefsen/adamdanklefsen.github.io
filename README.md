@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AdamDanklefsen/adamdanklefsen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a page for all my projects, past and ongoing, that I'd like to share.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Updates can be found below, quick links to the right, and full repositories [Here](https//github.com/AdamDanklefsen)
 
 ### Markdown
 
